@@ -32,7 +32,7 @@ Luckily the Gen 1 games actually solve most of these problems for us like this..
 - Starter Pokemon choice was also solved in Yellow where NPCs will give you one of each starter throughout
   the game, so we did that too. The NPCs are mostly the same aside from sprite differences in RBY.
 - Eevelutions were handled in Let's Go Pikachu/Eevee, where you can find wild Eeevees on Route 17, so we added
-  them there with a low 1% encounter rate
+  them there with a low 1% encounter rate.
 - The fossil Pokemon is chosen at Mt Moon and then the nerd takes the other one and stays there forever. I assumed
   he eventually finds another one he doesnt need, so after beating the Elite Four you can go find the other fossil
   back in the same location.
@@ -71,3 +71,5 @@ on each page. All added content is also features that existed in remakes of the 
 
 I do not provide a ROM for this game, or for any games. I do provide a patch which can be applied to your
 own copy of Pokemon Red which will turn it into a Pokemon First Edition ROM.
+
+*Note: Save files won't work across versions due to the changes made to the movement engine in v1.1
